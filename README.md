@@ -1,3 +1,3 @@
 # SOP
 
-## link seluruh code ada di file code
+## Seluruh source code ada di file code
