@@ -1,3 +1,3 @@
 # SOP
 
-## Seluruh source code ada di file code
+## Seluruh source code ada di file Code
